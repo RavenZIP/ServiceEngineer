@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681658746633",
+    "project_id": "serviceengineer-241101",
+    "storage_bucket": "serviceengineer-241101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681658746633:android:577c25660efd252433f5d8",
+        "android_client_info": {
+          "package_name": "com.example.serviceengineer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681658746633-ietqb9lt1i5mv0l91k5c2ahgict4refr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS6ShalYqt18bSPt3zYA3g8Oj9mGnVXGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681658746633-ietqb9lt1i5mv0l91k5c2ahgict4refr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
